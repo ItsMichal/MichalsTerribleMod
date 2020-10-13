@@ -1,0 +1,5 @@
+name: MichalsTerribleMod
+version: 1.0.0
+author: itsMichal
+main: us.michal.terrible.Terrible
+api-version: 1.16
